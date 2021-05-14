@@ -1,0 +1,22 @@
+{
+  "name": "GHToolComponent",
+  "version": "0.1.0",
+  "summary": "A short description of GHToolComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/danalu/GHToolComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "danalu": "dana@eyee.com"
+  },
+  "source": {
+    "git": "https://github.com/danalu/GHToolComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GHToolComponent/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - GHToolComponent (0.1.0)
+
+DEPENDENCIES:
+  - GHToolComponent (from `../`)
+
+EXTERNAL SOURCES:
+  GHToolComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GHToolComponent: 3cfb9a9a8facbb2d240c3d3792f3d5102c5e2edd
+
+PODFILE CHECKSUM: e2531d02f3d66d965a2e8576c197c1278a0c3c1d
+
+COCOAPODS: 1.10.1
